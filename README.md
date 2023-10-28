@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @abmaelmarques
-- 👀 I’m interested in criar projetos web e I.A
-- 🌱 I’m currently learning HTML CSS JAVA PYTHON C#..
-- 💞️ I’m looking to collaborate on tudo que eu puder  
-- 📫 How to reach me ...
+- 👀 I’m interested in criar projetos web e I.A e encontrar amigos criativos que gostem de projetos audaciosos...
+- 🌱 I’m currently learning HTML CSS JAVA PYTHON C#..e mais oque eu puder aprender
+- 📫 to reach me é só is em baixo da minha foto 
 
 <!---
 abmaelmarques/abmaelmarques is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
