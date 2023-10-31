@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abmaelmarques_
 - 👀 I’m interested in criar projetos web e I.A e encontrar amigos criativos que gostem de projetos audaciosos...
-- 🌱 I’m currently learning HTML CSS JAVA PYTHON C/C++..e mais oque eu puder aprender
+- 🌱 I’m currently learning HTML
 - 📫 to reach me é só to go in baixo da minha foto 
 
 <!---
