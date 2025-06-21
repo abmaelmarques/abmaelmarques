@@ -1,4 +1,4 @@
-<p><h2>Estudando Análise e Desenvolvimento de Sistemas, com interesse em Banco de Dados | Análise de Dados para Business Inteligence | Excel | PowerBI | SQL | Python. Desenvolvimento de sistemas | Javascript | ADVPL | SQLServer | Modelagem de Dados| Engenharia de Software | Metodologias Ágeis com BPMN
+<p><h2> • Analise e Desenvolvimento de sistemas HTML | CSS | JavaScript | ADVPL | SQLServer | Modelagem de Dados| Arquitetura de Software • Análise de Dados para BI| Excel | PowerBI | SQL | Python. 
 </h2></p>
 
 
