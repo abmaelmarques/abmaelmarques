@@ -1,4 +1,4 @@
-<p><h2> • Analise e Desenvolvimento de sistemas HTML | CSS | JavaScript | ADVPL | SQLServer | Modelagem de Dados| Arquitetura de Software • Análise de Dados para BI| Excel | PowerBI | SQL | Python. 
+<p><h2>• Analise e Desenvolvimento de sistemas HTML | CSS | JavaScript | SQLServer | Modelagem de Dados | Python •
 </h2></p>
 
 
