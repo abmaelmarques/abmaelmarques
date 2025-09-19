@@ -1,4 +1,4 @@
-<p><h2>• Analise e Desenvolvimento de sistemas HTML | CSS | JavaScript | SQLServer | Modelagem de Dados | Python •
+<p><h2>• Engenheiro de Dados | SQL | NoSQL | Python | Cloud Computing | ETL/ELT | B.I | DevOps
 </h2></p>
 
 
